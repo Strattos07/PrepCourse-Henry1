@@ -1,1 +1,3 @@
-# PrepCourse-Henry1
+Gabriel Oswaldo Scubla
+
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
